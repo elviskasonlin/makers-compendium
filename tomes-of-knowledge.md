@@ -1,6 +1,13 @@
+# Table of Contents
+
+1. Electronics
+    * [The Art of Electronics by Horowitz P., et. al.](#art-of-elec)
+2. Mechanical
+    * [Machinery's Handbook by Oberg E., et. al.](#machinery-handbook)
+
 # Electronics
 
-## The Art of Electronics by Horowitz, P., et. al.
+## The Art of Electronics by Horowitz, P., et. al. <a name="art-of-elec"></a>
 *The Essential Electronics Tome*
 
   * About
@@ -24,7 +31,7 @@
 
 # Mechanical
 
-## Machinery's Handbook by Oberg, E., et. al.
+## Machinery's Handbook by Oberg, E., et. al. <a name="machinery-handbook"></a>
 *A Machinists' Tome*
 
 * About
