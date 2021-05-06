@@ -20,12 +20,9 @@
 
 title: Makers' Compendium
 email: phyoaung_pyae@mymail.sutd.edu.sg
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: This is a static version of resources compiled by both current and former members of the SP Makers' Club
 baseurl: "/makers-compendium" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://elviskasonlin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: just-the-docs
