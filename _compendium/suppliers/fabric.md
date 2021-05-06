@@ -1,3 +1,12 @@
+---
+layout: default
+title: Fabric
+parent: Suppliers
+nav_order: 3
+---
+
+# Fabric Related
+
 | Store Name                  | Address                                                     | Website (if any)                                                         | Remarks                                        | Opening Hours            |
 | --------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------- | ------------------------ |
 | Golden Dragon Craft Store   | 101 Upper Cross Street, #02-51 People's Park Centre, 058357 | [https://goldendragon.com.sg/](https://goldendragon.com.sg/)             | Beading, Crochet, Knitting, Cross Stitch       | 10AM to 8.15PM Mon-Sat   |

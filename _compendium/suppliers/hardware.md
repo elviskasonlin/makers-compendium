@@ -1,3 +1,11 @@
+---
+layout: default
+title: Hardware
+parent: Suppliers
+nav_order: 2
+---
+
+
 # General Hardware
 *Bolts, Nuts, PVC Pipe, Power Tools, Hand Tools, etc.*
 
@@ -22,24 +30,26 @@
 | Djun Enterprise                                      |                                                    |             |  |                                                                    |                                                   |
 
 # Hydraulic & Pneumatic
-| Shop Name            | Address | Postal Code | | Website(if any) | Hours |
+
+| Shop Name            | Address | Postal Code | Contact | Website(if any) | Hours |
 | -------------------- | ------- | ----------- | ------- | --------------- | ----- |
-| Able Hydraulic       |         |             | |                 |       |
-| Soonn Seng Poly Seal |         |             | |                 |       |
-| Pneumax Singapore    |         |             | |                 |       |
+| Able Hydraulic       |         |             |         |                 |       |
+| Soonn Seng Poly Seal |         |             |         |                 |       |
+| Pneumax Singapore    |         |             |         |                 |       |
 
 # Plumbing
+
 | Shop Name           | Address | Postal Code | Contact | Website(if any) | Hours |
 | ------------------- | ------- | ----------- | ------- | --------------- | ----- |
-| Unitra Jaya         |         |             | |                 |       |
-| Liang Chew Hardware |         |             | |                 |       |
+| Unitra Jaya         |         |             |         |                 |       |
+| Liang Chew Hardware |         |             |         |                 |       |
 
 # Bearings, Springs, Wheels
 
 | Shop Name        | Address | Postal Code | Contact |Website(if any) | Hours |
 | ---------------- | ------- | ----------- | ------- | --------------- | ----- |
-| Shin coil        |         |             | |                 |       |
-| Shinko Bearings  |         |             | |                 |       |
-| Yew Kee Bearings |         |             | |                 |       |
-| Kian Ho Bearings |         |             | |                 |       |
-| Castor & Wheels  |         |             | |                 |       |
+| Shin coil        |         |             |         |                 |       |
+| Shinko Bearings  |         |             |         |                 |       |
+| Yew Kee Bearings |         |             |         |                 |       |
+| Kian Ho Bearings |         |             |         |                 |       |
+| Castor & Wheels  |         |             |         |                 |       |

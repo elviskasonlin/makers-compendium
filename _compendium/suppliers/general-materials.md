@@ -1,5 +1,13 @@
+---
+layout: default
+title: General Materials
+parent: Suppliers
+nav_order: 1
+---
 
-# Metals
+# General Materials
+
+## Metals
 
 | Shop Name             | Address                                      | Postal Code | Contact | Website                             | Hours              |
 |-----------------------|----------------------------------------------|-------------|---------|-------------------------------------|--------------------|
@@ -9,7 +17,8 @@
 | Superfix              | 126 Genting Lane                             | 349575      |         |                                     |                    |
 | Lian Fu Metal Trading | 3027 Ubi Rd 1, #01-112                       | 408720      |         |                                     |                    |
 
-# Metal Fabrication
+## Metal Fabrication
+
 | Shop Name      | Address | Postal Code | Contact | Website | Hours |
 |----------------|---------|-------------|---------|---------|-------|
 | Hi Yew Welding |         |             |         |         |       |
@@ -17,7 +26,7 @@
 |                |         |             |         |         |       |
 
 
-# Wood
+## Wood
 
 | Shop Name             | Address                 | Postal Code | Contact | Website | Hours                                 |
 |-----------------------|-------------------------|-------------|---------|---------|---------------------------------------|
@@ -25,7 +34,7 @@
 |                       |                         |             |         |         |                                       |
 |                       |                         |             |         |         |                                       |
 
-# Glass
+## Glass
 
 | Shop Name           | Address                     | Postal Code | Contact | Website | Hours                                               |
 |---------------------|-----------------------------|-------------|---------|---------|-----------------------------------------------------|
@@ -33,7 +42,8 @@
 |                     |                             |             |         |         |                                                     |
 |                     |                             |             |         |         |                                                     |
 
-# Plastics
+## Plastics
+
 | Shop Name                | Address                   | Postal Code | Contact             | Website | Hours                                 |
 |--------------------------|---------------------------|-------------|---------------------|---------|---------------------------------------|
 | Dama Trading             | 3029A Ubi Rd 3, #01-98/99 | 408661      | https://dama.com.sg |         | 8.30-7pm weekdays, 8.30-2pm saturdays |
@@ -41,7 +51,7 @@
 | All Marketing            |                           |             |                     |         |                                       |
 | SKP                      |                           |             |                     |         |                                       |
 
-# Filament
+## Filament
 
 | Shop Name | Address | Postal Code | Contact | Website | Hours |
 |-----------|---------|-------------|---------|---------|-------|
@@ -49,7 +59,7 @@
 |           |         |             |         |         |       |
 |           |         |             |         |         |       |
 
-# Electronics
+## Electronics
 
 | Shop Name               | Address                              | Postal Code | Contact | Website                     | Hours                         |
 |-------------------------|--------------------------------------|-------------|---------|-----------------------------|-------------------------------|
@@ -57,7 +67,7 @@
 | Continental Electronics | #B1-25/24 Sim Lim Tower 10 Jln Besar | 208787      |         | http://continental.sg/      | mon-fri 9.30-6pm sat 9.30-5pm |
 | Element14               |                                      |             |         | https://sg.element14.com/   |                               |
 
-# Webbing & Canvas
+## Webbing & Canvas
 
 | Shop name         | Address                                       | Postal Code | Contact | Webstie                                | Hours           |
 |-------------------|-----------------------------------------------|-------------|---------|----------------------------------------|-----------------|

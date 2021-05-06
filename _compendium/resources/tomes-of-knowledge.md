@@ -1,3 +1,10 @@
+---
+layout: default
+title: Books
+nav_order: 1
+parent: Resources
+---
+
 # Table of Contents
 
 1. Electronics
