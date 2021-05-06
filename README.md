@@ -5,20 +5,20 @@
 The great big tome of resources collated by SP Makers' Club and its alumni.
 Feel free to use the Wiki. Discussions are also enabled for collaboration.
 
-The site is currently live over at ![https://elviskasonlin.github.io/makers-compendium/](https://elviskasonlin.github.io/makers-compendium/). I might consider moving it onto a shorter domain and not rely on my personal github.io links.
+The site is currently live over at [https://elviskasonlin.github.io/makers-compendium/](https://elviskasonlin.github.io/makers-compendium/). I might consider moving it onto a shorter domain and not rely on my personal github.io links.
 
 Note: The material suppliers' list is periodically updated based on the internal google sheets
 
 # Quick Supplier Links
-![Material Suppliers (Fabric)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/fabric.html)
+[Material Suppliers (Fabric)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/fabric.html)
 
-![Material Suppliers (General Materials)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/general-materials.html)
+[Material Suppliers (General Materials)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/general-materials.html)
 
-![Material Suppliers (Hardware)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/hardware.html)
+[Material Suppliers (Hardware)](https://elviskasonlin.github.io/makers-compendium/_compendium/suppliers/hardware.html)
 
 # Quick Resource Links
 
-![Books & resources](https://elviskasonlin.github.io/makers-compendium/_compendium/resources/tomes-of-knowledge.html)
+[Books & resources](https://elviskasonlin.github.io/makers-compendium/_compendium/resources/tomes-of-knowledge.html)
 
 # Dev
 Installation
